@@ -3,5 +3,3 @@
 </p>
 
 ## Using IMDB to determine if the MPAA rating of a movie (G/PG/PG-13/R) affects how much revenue the movie generates.
-
-
